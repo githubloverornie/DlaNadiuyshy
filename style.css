@@ -1,0 +1,105 @@
+/* *:not(first-of-type){
+    display: block;
+    margin: 0 auto;
+} */
+.section{
+    position: relative;
+    background-image: url(https://img.freepik.com/free-vector/illustrations-valentine_53876-2748.jpg?w=996&t=st=1676283260~exp=1676283860~hmac=507b6ade9f4956839460348e58c11cf8cb1ab9b7b4757120089203638bd94e08);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: block;
+    margin: 0 auto;
+}
+.container{
+    max-width: 1300px;
+    display: block;
+    margin: 0 auto;
+}
+.image:hover{
+    box-shadow: 10px 10px 10px black;
+    transition: 0.5s;
+    cursor: pointer;
+    border-radius: 0%;
+    transform: perspective(50%);
+    display: block;
+}
+.tittle{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #000;
+    max-width: 270px;
+    font-family: 'Pacifico', cursive;
+    font-size: 1.5em;
+    display: block;
+    margin: 0 auto;
+}
+.tittle:hover{
+    color: wheat;
+    cursor: pointer;
+    transition: 0.6s;
+    display: block;
+}
+#text_no{
+    display: flex;
+    justify-content: right;
+    font-family: 'Pacifico', cursive;
+}
+#text_no:hover{
+    color: wheat;
+    transition: 0.5s;
+    cursor: pointer;
+}
+.text{
+    font-size: 50px;
+    text-decoration-color: black;
+    text-align: center;
+    margin: 0 auto;
+    color: black;
+    display: block;
+    margin: 0 auto;
+}
+.text:hover{
+    color: wheat;
+    transition: 0.5s;
+}
+a{
+    text-decoration:none;
+    display: block;
+    margin: 0 auto;
+}
+@media screen and (max-width:1090px){
+    .container{
+        max-width: 1040px;
+    }
+   
+}
+@media screen and (max-width:800px){
+    .container{
+        max-width: 750px;
+    }
+    
+}
+@media screen and (max-width:550px){
+    .container{
+        max-width: 500px;
+    }
+}
+@media screen and (max-width:480px){
+    .container{
+        max-width: 430px;
+    }
+}
+@media screen and (max-width:360px){
+    .container{
+        max-width: 320px;
+    }
+}
+@media screen and (max-width:320px){
+    .container{
+        max-width: 320px;
+    }
+}
+https://gifft.me/l#AK9lzKKs5k2nJlAHs7fK
+https://gifft.me/l#aOvzFsyEEusy5gPgadBm
+https://gifft.me/l#AEUrFWePhyfZj0GqdLoh
